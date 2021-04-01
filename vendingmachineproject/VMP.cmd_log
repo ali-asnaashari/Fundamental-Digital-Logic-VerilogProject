@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/New folder/vendingmachineproject/VMP.xst" -ofn "C:/Xilinx/New folder/vendingmachineproject/VMP.syr" 
