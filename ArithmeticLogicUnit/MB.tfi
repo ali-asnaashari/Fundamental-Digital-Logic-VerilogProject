@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+MB instance_name (
+    .allfunc(allfunc), 
+    .decfunc(decfunc), 
+    .balancebit(balancebit), 
+    .equalityBit(equalityBit), 
+    .conclusion(conclusion)
+    );
+
+

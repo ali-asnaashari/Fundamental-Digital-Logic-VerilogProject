@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj ArithmeticLogicUnit -o "C:/Xilinx/New folder/ArithmeticLogicUnit/subtraction.tfi" -lib work "C:/Xilinx/New folder/ArithmeticLogicUnit//subtraction.v" -module subtraction -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
